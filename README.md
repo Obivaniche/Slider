@@ -6,4 +6,4 @@
 
 В проекте используется семантическая верстка, адаптивная верстка, медиазапросы, бэм, адаптивность реализивонная через джаваскрипт код.
 
-Ссылка на GitHub Pages: https://obivaniche.github.io/RandomUsers/
+Ссылка на GitHub Pages: https://obivaniche.github.io/Slider/
